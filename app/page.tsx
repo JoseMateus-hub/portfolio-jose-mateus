@@ -155,17 +155,33 @@ export default function PortfolioJoseMateus() {
           <div className="mt-8 grid gap-4 md:grid-cols-3">
             <div className="rounded-2xl border border-white/10 bg-slate-900 p-5">
               <p className="text-sm text-slate-400">E-mail</p>
-              <p className="mt-2">seuemail@exemplo.com</p>
+              <a
+                href="mailto:josemateus957@gmail.com"
+                className="mt-2 inline-block hover:underline">
+                josemateus957@gmail.com
+              </a>
             </div>
 
             <div className="rounded-2xl border border-white/10 bg-slate-900 p-5">
               <p className="text-sm text-slate-400">GitHub</p>
-              <p className="mt-2">github.com/JoseMateus-hub</p>
+              <a
+                href="https://github.com/JoseMateus-hub"
+                target="_blank"
+                rel="noreferrer"
+                className="mt-2 inline-block hover:underline">
+                github.com/JoseMateus-hub
+              </a>
             </div>
 
             <div className="rounded-2xl border border-white/10 bg-slate-900 p-5">
               <p className="text-sm text-slate-400">LinkedIn</p>
-              <p className="mt-2">linkedin.com/in/seuperfil</p>
+              <a
+                href="https://www.linkedin.com/in/seu-linkedin"
+                target="_blank"
+                rel="noreferrer"
+                className="mt-2 inline-block hover:underline">
+                linkedin.com/in/seu-linkedin
+              </a>
             </div>
           </div>
         </div>
