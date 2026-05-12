@@ -58,13 +58,13 @@ const projects = [
     glyph: "◈",
   },
   {
-    title: "GovWatch",
-    description:
-      "Dashboard de monitoramento de contratos públicos com grafo D3.js e arquitetura FastAPI/PostgreSQL/Neo4j.",
-    tech: ["FastAPI", "Python", "Neo4j", "D3.js"],
-    github: "https://github.com/JoseMateus-hub",
-    featured: false,
-    glyph: "◉",
+  title: "Full-Stack Task Flow",
+  description:
+    "Lista de tarefas moderna com CRUD completo, design Dark Mode responsivo e integração em tempo real com banco de dados.",
+  tech: ["React", "Fastify", "Prisma", "PostgreSQL", "Tailwind CSS"],
+  github: "https://github.com/JoseMateus-hub/todo-challenge",
+  featured: true, // Se quiser que ele ganhe destaque no seu site
+  glyph: "📋",
   },
   {
     title: "TaskFlow API",
