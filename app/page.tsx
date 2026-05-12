@@ -64,7 +64,7 @@ const projects = [
   tech: ["React", "Fastify", "Prisma", "PostgreSQL", "Tailwind CSS"],
   github: "https://github.com/JoseMateus-hub/todo-challenge",
   featured: true, // Se quiser que ele ganhe destaque no seu site
-  glyph: "◆",
+  glyph: "📋",
   },
   {
     title: "TaskFlow API",
