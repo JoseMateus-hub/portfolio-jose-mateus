@@ -112,10 +112,10 @@ const experiences = [
     current: false,
   },
   {
-    role: "Suporte Técnico",
+    role: "Recuperador de Crédito",
     company: "Almaviva",
     location: "Fortaleza, CE",
-    period: "2020 — 2022",
+    period: "2024 — 2025",
     desc: "Suporte ao cliente com foco em resolução de problemas técnicos e comunicação assertiva.",
     current: false,
   },
