@@ -17,6 +17,16 @@ const skills = [
   { name: "Jest", icon: "◎" },
   { name: "Git", icon: "⌥" },
   { name: "HTML/CSS", icon: "◇" },
+  {name: "FastAPI", icon: "⚡"},
+  {name: "Python", icon: "🐍"},
+  {name: "JavaScript", icon: "✦"},
+  {name: "Zod", icon: "🛡️"},
+  {name: "JWT", icon: "🔐"},
+  {name: "SQLite", icon: "🗄️"},
+  {name: "Flask", icon: "🍶"},
+  {name: "Fastify", icon: "🚀"},
+  {name: "Tailwind CSS", icon: "🌬️"},
+  {name: "Vite", icon: "⚡"},
 ];
 
 const projects = [
