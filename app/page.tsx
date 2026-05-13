@@ -82,7 +82,7 @@ const projects = [
     tech: ["Next.js 14", "TypeScript", "Prisma", "PostgreSQL"],
     github: "https://github.com/JoseMateus-hub/acme.git",
     featured: false,
-    glyph: "◇",
+    glyph: "◆",
   },
 ];
 
