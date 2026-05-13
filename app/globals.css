@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
 :root {
-  --ts-blue: #3178C6;
-  --ts-blue-dark: #235A97;
-  --ts-blue-light: #4A90D9;
-  --ts-glow: rgba(49, 120, 198, 0.15);
+  --matrix-green: #10B981;
+  --matrix-green-dark: #047857;
+  --matrix-green-light: #34D399;
+  --matrix-glow: rgba(16, 185, 129, 0.15);
 }
 
 html {
@@ -74,8 +74,8 @@ body {
     0deg,
     transparent,
     transparent 2px,
-    rgba(49, 120, 198, 0.015) 2px,
-    rgba(49, 120, 198, 0.015) 3px
+    rgba(16, 185, 129, 0.015) 2px,
+    rgba(16, 185, 129, 0.015) 3px
   );
   pointer-events: none;
 }
@@ -89,7 +89,7 @@ body {
   position: absolute;
   bottom: 0; left: 0;
   width: 0; height: 1px;
-  background: #3178C6;
+  background: #10B981;
   transition: width 0.3s ease;
 }
 .hover-line:hover::after {
@@ -102,7 +102,7 @@ body {
   position: absolute;
   top: 0; left: 0;
   width: 0; height: 1px;
-  background: linear-gradient(90deg, #3178C6, #4A90D9);
+  background: linear-gradient(90deg, #10B981, #34D399);
   transition: width 0.5s ease;
 }
 .group:hover .card-top-line::before,
