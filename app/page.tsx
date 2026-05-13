@@ -442,7 +442,7 @@ export default function PortfolioJoseMateus() {
                 <p>
                   Antes da transição para dev, trabalhei com suporte técnico na Almaviva e Concentrix,
                   o que me deu base sólida em redes, hardware e sistemas. Atualmente curso{" "}
-                  <span className="text-white">Engenharia de Software</span> pela Descomplica.
+                  <span className="text-emerald-400">Engenharia de Software</span> pela Descomplica.
                 </p>
                 <p>
                   Tenho interesse crescente em{" "}
