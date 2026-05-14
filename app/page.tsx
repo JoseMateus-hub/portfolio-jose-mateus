@@ -67,7 +67,7 @@ const projects = [
   glyph: "📋",
   },
   {
-  title: "Full-Stack Task Flow",
+title: "Full-Stack Task Flow",
 description:
   "Aplicação Full-Stack de gerenciamento de tarefas com arquitetura moderna, banco de dados em tempo real e interface responsiva em Dark Mode.",
 tech: [
@@ -83,9 +83,10 @@ tech: [
   "Zod",
 ],
 github: "https://github.com/JoseMateus-hub/todo-challenge",
+demo: "https://today-i-learned-josemateus.netlify.app/",
 featured: true,
-glyph: "◆",
-  },
+glyph: "📋",
+},
   {
     title: "Acme Dashboard",
     description:
