@@ -67,13 +67,24 @@ const projects = [
   glyph: "📋",
   },
   {
-    title: "TaskFlow API",
-    description:
-      "REST API de gerenciamento de tarefas com Node.js, Express, Prisma, SQLite e JWT.",
-    tech: ["Node.js", "Express", "Prisma", "SQLite", "JWT"],
-    github: "https://github.com/JoseMateus-hub/taskflow-api",
-    featured: false,
-    glyph: "◆",
+  title: "Full-Stack Task Flow",
+description:
+  "Aplicação Full-Stack de gerenciamento de tarefas com arquitetura moderna, banco de dados em tempo real e interface responsiva em Dark Mode.",
+tech: [
+  "TypeScript",
+  "Node.js",
+  "Fastify",
+  "Prisma",
+  "PostgreSQL",
+  "Supabase",
+  "React",
+  "Vite",
+  "Tailwind CSS",
+  "Zod",
+],
+github: "https://github.com/JoseMateus-hub/todo-challenge",
+featured: true,
+glyph: "◆",
   },
   {
     title: "Acme Dashboard",
